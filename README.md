@@ -18,11 +18,13 @@
 <b>1. What does it do?</b>
 </ul>
 <ul>
-It is a Billing software for a retail. I had made it so that the shopkeepers can use it at free cost. I will try to improve it as much as I can. So please give to feedback to improve it. Your feedback will motivate me do more like this
+  It is a Billing software for a retail. I had made it so that the shopkeepers can use it at free cost.
+  I will try to improve it as much as I can. So please give to feedback to improve it.
+  Your feedback will motivate me do more like this
 </ul>
 
  *<b>SUGGESTION</b>
-</ul>
-<ul>
-Read the code properly and the comment written in the program
-</ul>
+  </ul>
+  <ul>
+  Read the code properly and the comment written in the program
+  </ul>
