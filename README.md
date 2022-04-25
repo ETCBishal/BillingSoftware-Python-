@@ -3,7 +3,7 @@
 * This is my first approach towards the python GUI
 :heart_eyes:
 <ul>
- <b>The work is in progress</b>.But ready to use.
+<b><i>The work is in progress</i></b>.But ready to use.
 </ul>
 <ul>
 <b>1. What does it do?</b>
@@ -12,7 +12,7 @@
 It is a Billing software for a retail. I have made it so that the shopkeepers can use it at free of cost.I will try to improve it as much as I can. So please give to feedback to improve it.
 </ul>
 
-* <b>SUGGESTION</b>
+*<b>SUGGESTION</b>
 </ul>
 <ul>
 Read the code properly and the comment written in the program
