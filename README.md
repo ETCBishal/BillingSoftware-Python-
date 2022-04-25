@@ -2,7 +2,7 @@
 
 <b> Author : </b>
 <i>
-* Name: Bishal jaiswal
+* Name: - [@Bishal jaiswal](https://github.com/ETCBishal)
 * purpose: Practicing the programming [ PYTHON 🐍]
 * Std in (class): VIII
 * Year: 2022
@@ -39,6 +39,6 @@ Your feedback will motivate me do more like this.
 </i>
 
 ##### Languag and 🛠 Skills
-- [@Bishal](https://github.com/ETCBishal)
 - [@Python](https://www.youtube.com/watch?v=aqvDTCpNRek&list=PLu0W_9lII9agICnT8t4iYVSZ3eykIAOME)
 - [@Tkinter](https://www.youtube.com/watch?v=-Q4lm8eYulw&list=PLu0W_9lII9ajLcqRcj4PoEihkukF_OTzA)
+
