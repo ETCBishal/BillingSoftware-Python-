@@ -1,30 +1,37 @@
-# BillingSoftware-Python-
+# BILLING SOFTWARE -Tkinter
 
 <b> Author : </b>
 <i>
 * Name: Bishal jaiswal
-* Age: 14 years
 * purpose: Practicing the programming [ PYTHON 🐍]
 * Std in (class): VIII
 * Year: 2022
+* Email: bishaljaiswal0408@gmail.com
 </i>
 
 * This is my first approach towards the python GUI
 :heart_eyes:
 <ul>
-<b><i>The work is in progress</i></b>.But ready to use.
-</ul>
-<ul>
-<b>1. What does it do?</b>
-</ul>
-<ul>
-  It is a Billing software for a retail. I had made it so that the shopkeepers can use it at free cost.
-  I will try to improve it as much as I can. So please give to feedback to improve it.
-  Your feedback will motivate me do more like this
+
+* <b><i><u>The work is in progress to improve it</i></b></u>. But ready to use.
 </ul>
 
- *<b>SUGGESTION</b>
-  </ul>
-  <ul>
-  Read the code properly and the comment written in the program
-  </ul>
+<ul>
+
+# <h2><b>1.Introduction</b>
+<ul>
+
+>>  It is a Billing software for a retail. I had
+I will try to improve it as much as I can. So please give to feedback to improve it.
+Your feedback will motivate me do more like this.
+
+</ul>
+
+# <h2><b>* What does it do?</b>
+<ul>
+
+>>  This software is made by keeping the user   experiance in mind. It will accept the name and the phone number of the customer and the item purchased and it's price then finally it will calculate the total and display the receipt on the screen. If the retailer want to save the record of his/her customers then he/she is allowed to save the record of the user.
+
+</ul>
+
+<br    /> <b><h5><i>THANK YOU<br>for reading it
