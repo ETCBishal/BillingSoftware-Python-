@@ -26,8 +26,8 @@ This is my first approach towards the python GUI
 <i>
 
 >>  It is a Billing software for a retail. I had made it for keeping the customer details.
-I will try to improve it as much as I can. So please give to feedback to improve it.
-Your feedback will motivate me do more like this.
+I will try to improve it as much as I can. So please give me feedback to improve it.
+Your valuable feedback will motivate me do more like this.
 
 </ul>
 
