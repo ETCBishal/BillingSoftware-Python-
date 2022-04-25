@@ -6,8 +6,8 @@
 * purpose: Practicing the programming [ PYTHON 🐍]
 * Std in (class): VIII
 * Year: 2022
-* To reach me: bishaljaiswal0408@gmail.com
-* [![MIT License](https://img.shields.io/apm/l/atomic-design-ui.svg?)](https://github.com/ETCBishal/BillingSoftware-Python-/blob/main/LICENSE)
+* Email: bishaljaiswal0408@gmail.com
+* [![MIT License](https://img.shields.io/apm/l/atomic-design-ui.svg?)](https://github.com/ETCBishal/illingSoftware-Python-/blob/main/LICENSE)
 </i>
 ##### Languag and 🛠 Skills
 - [@Bishal](https://github.com/ETCBishal)
@@ -40,3 +40,4 @@ Your feedback will motivate me do more like this.
 >>  This software is made by keeping the user   experiance in mind. It will accept the name and the phone number of the customer and the item purchased and it's price then finally it will calculate the total and display the receipt on the screen. If the retailer want to save the record of his/her customers then he/she is allowed to save the record of the user. Thank You :D
 </ul>
 </i>
+
