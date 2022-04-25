@@ -4,7 +4,7 @@
 <i>
 * Name: - [@Bishal jaiswal](https://github.com/ETCBishal)
 * purpose: Practicing the programming [ PYTHON 🐍]
-* Std in (class): VIII
+* Std in (class): IX
 * Year: 2022
 * Email: bishaljaiswal0408@gmail.com
 
