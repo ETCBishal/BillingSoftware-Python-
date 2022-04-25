@@ -25,7 +25,7 @@ This is my first approach towards the python GUI
 <ul>
 <i>
 
->>  It is a Billing software for a retail. I had
+>>  It is a Billing software for a retail. I had made it for keeping the customer details.
 I will try to improve it as much as I can. So please give to feedback to improve it.
 Your feedback will motivate me do more like this.
 
