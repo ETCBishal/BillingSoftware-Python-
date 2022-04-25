@@ -3,7 +3,7 @@
 <b> Author : </b>
 <i>
 * Name: - [@Bishal jaiswal](https://github.com/ETCBishal)
-* purpose: Practicing the programming [ PYTHON 🐍 and TKINTER]
+* purpose: Practicing the programming [ PYTHON 🐍 and TKINTER ]
 * Std in (class): IX
 * Year: 2022
 * Email: bishaljaiswal0408@gmail.com
