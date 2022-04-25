@@ -9,9 +9,11 @@
 * Email: bishaljaiswal0408@gmail.com
 * [![MIT License](https://img.shields.io/apm/l/atomic-design-ui.svg?)](https://github.com/ETCBishal/illingSoftware-Python-/blob/main/LICENSE)
 </i>
-##### Languag and 🛠 Skills
+Languag and 🛠 Skills
 - [@Bishal](https://github.com/ETCBishal)
+- 
 - [@Python](https://www.youtube.com/watch?v=aqvDTCpNRek&list=PLu0W_9lII9agICnT8t4iYVSZ3eykIAOME)
+- 
 - [@Tkinter](https://www.youtube.com/watch?v=-Q4lm8eYulw&list=PLu0W_9lII9ajLcqRcj4PoEihkukF_OTzA)
 
 <ul>
