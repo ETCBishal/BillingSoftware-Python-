@@ -12,8 +12,6 @@
 </i>
 
 <ul>
-This is my first approach towards the python GUI
-:heart_eyes:
 
 ##### <b><i><u>The work is in progress to improve it</i></b></u>. But ready to use.
 
@@ -21,24 +19,15 @@ This is my first approach towards the python GUI
 
 <ul>
 
-## <h2><b>1.Introduction</b>
+## <h2><b>1.About Scheduler</b>
 <ul>
 <i>
 
->>  It is a Billing software for a retail. I had made it for keeping the customer details.
-I will try to improve it as much as I can. So please give me feedback to improve it.
-Your valuable feedback will motivate me do more like this.
-
-</ul>
-
-## <h2><b>2 What does it do?</b>
-<ul>
-
->>  This software is made by keeping the user   experiance in mind. It will accept the name and the phone number of the customer and the item purchased and it's price then finally it will calculate the total and display the receipt on the screen. If the retailer want to save the record of his/her customers then he/she is allowed to save the record of the user. Thank You :D
+>> I have built it for the purpose of practicing Tkinter GUI for myself. Actually, it's a simple task scheduler that is very interactive with the user, and the interface is not good that much. It takes the name, contact, job, what to, and up when to schedule. Users can also save the schedule and open the saved schedules.
+Note: first use then believe
 </ul>
 </i>
 
-##### Languag and 🛠 Skills
+##### Languag and 🛠 Skills used
 - [@Python](https://www.youtube.com/watch?v=aqvDTCpNRek&list=PLu0W_9lII9agICnT8t4iYVSZ3eykIAOME)
 - [@Tkinter](https://www.youtube.com/watch?v=-Q4lm8eYulw&list=PLu0W_9lII9ajLcqRcj4PoEihkukF_OTzA)
-
